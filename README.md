@@ -1,2 +1,2 @@
-# recommendation-system
-A simple recommendation system for practice.
+# Movie Recommendation System
+A simple movie recommendation system for practice.
